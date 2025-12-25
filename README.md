@@ -32,10 +32,9 @@ Part 1: Scientific Verification — Reward for Debunking
 -----------------------------------------------------------------------------------------
 I am announcing a reward of 400 Toncoin to the first person who:
 
-1)Finds a critical error in Theorem 2 (the key result of the article), OR
-2)Finds a counterexample to Theorem 2, OR
-Any earlier publication containing a result analogous to Theorem 2
-3)Provides the identifier of an earlier publication containing a result analogous to Theorem 2. I also need the source itself if it is not freely and publicly available.
+1)Finds a critical error in Theorem 2 (the key result of the article), OR  
+2)Finds a counterexample to Theorem 2, OR  
+3)Provides the identifier of an earlier publication containing a result analogous to Theorem 2. I also need the source itself if it is not freely and publicly available.  
 
 Considering the volatility of the cryptocurrency over the past three years, the amount is equivalent to ~400–1000 USD. The amount is modest, but this is all my savings.
 
