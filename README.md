@@ -41,19 +41,17 @@ Considering the volatility of the cryptocurrency over the past three years, the 
 
 Procedure:
 
-1)Submissions for the reward are accepted at the email: rewardForDebunking@gmail.com
-2)The email must contain a scientifically grounded refutation and a Toncoin wallet address (the address can be provided after the refutation is verified).
-3)I will try to respond to all emails within two business days, but this depends on the volume of correspondence.
-4)In case of successful verification, I will immediately transfer the tokens to the specified wallet, publish the essence of the refutation (with a link if necessary), and, at the recipient's discretion, their name.
-5)In case of a rejection, you may file a public appeal in the comments of the YouTube video (link below).
+1)Submissions for the reward are accepted at the email: rewardForDebunking@gmail.com  
+2)The email must contain a scientifically grounded refutation and a Toncoin wallet address (the address can be provided after the refutation is verified).  
+3)I will try to respond to all emails within two business days, but this depends on the volume of correspondence.  
+4)In case of successful verification, I will immediately transfer the tokens to the specified wallet, publish the essence of the refutation (with a link if necessary), and, at the recipient's discretion, their name.  
+5)In case of a rejection, you may file a public appeal in the comments of the YouTube video (link below).  
 
 If the discovery withstands this verification, it will serve as a strong indicator of its novelty and correctness. In addition to the article link, I provide a link to a YouTube video that presents the formulation of Theorem 2 and part of its proof — for those who may find the article's formulation too complex.
 
-Article (Zenodo): https://doi.org/10.5281/zenodo.17376700
-
-YouTube video explaining Theorem 2: https://youtu.be/k673zm0la9o?si=oh5EckICY1OjkHsp
-
-Email for submissions: rewardForDebunking@gmail.com
+Article (Zenodo): https://doi.org/10.5281/zenodo.17376700  
+YouTube video explaining Theorem 2: https://youtu.be/k673zm0la9o?si=oh5EckICY1OjkHsp  
+Email for submissions: rewardForDebunking@gmail.com  
 
 Part 2. Endorse me
 -----------------------------------------------------------------------------------------
@@ -64,8 +62,7 @@ Each endorsement from a person implies that the endorser, after an initial revie
 
 At the start of the experiment, the author has received two endorsements out of four requests - that is, 50% positive responses rate from the sample. In one case, the author received no response; in another, a direct refusal was given due to the author's lack of affiliation and the reputational risks that endorsing an unaffiliated researcher entails for a professor. I will continue to track endorsement statistics and publish them here until I pay the reward for the first part of the experiment.
 
-Endorsements requested: 4
-
-Endorsements received: 2 (50% positive response rate)
+Endorsements requested: 4  
+Endorsements received: 2 (50% positive response rate)  
 
 In the author's opinion, this metric may reflect the level of the community's acceptance of the result and its potential demand.
