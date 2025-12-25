@@ -1,4 +1,5 @@
-From 2015 to 2020, I worked as a programmer on ECM (Enterprise Content Management) projects for companies such as MegaFon, Norilsk Nickel, Severstal, AlfaStrakhovanie, and Ilim Group.
+From 2015 to 2020, I worked as a programmer on ECM (Enterprise Content Management) projects for companies such as MegaFon, Norilsk Nickel, Severstal, AlfaStrakhovanie, and Ilim Group.  
+
 Tech stack: C#, Java, Python, Oracle SQL, PostgreSQL.
 
 From 2020 to 2025, I developed the Python ORM system Epure and studied mathematics via YouTube, having completed the following courses:
