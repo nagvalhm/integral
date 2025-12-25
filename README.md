@@ -3,18 +3,18 @@ Tech stack: C#, Java, Python, Oracle SQL, PostgreSQL.
 
 From 2020 to 2025, I developed the Python ORM system Epure and studied mathematics via YouTube, having completed the following courses:
 
-Set Theory and Logic – E.V. Dashkov, Moscow Institute of Physics and Technology (MIPT)
-Abstract Algebra – N.A. Vavilov, Saint Petersburg State University (SPbU)
-Algebra – A.B. Kalmynin, Independent University of Moscow (IUM)
-General Topology – K.L. Kozlov, Moscow State University (MSU)
-Calculus – A.G. Davtyan, MIPT
-Measure Theory – I.G. Erlikh, MIPT
-Real Analysis – M.I. Dyachenko, MSU
-Probability Theory – D.A. Shabanov, MSU
+Set Theory and Logic – E.V. Dashkov, Moscow Institute of Physics and Technology (MIPT)  
+Abstract Algebra – N.A. Vavilov, Saint Petersburg State University (SPbU)  
+Algebra – A.B. Kalmynin, Independent University of Moscow (IUM)  
+General Topology – K.L. Kozlov, Moscow State University (MSU)  
+Calculus – A.G. Davtyan, MIPT  
+Measure Theory – I.G. Erlikh, MIPT  
+Real Analysis – M.I. Dyachenko, MSU  
+Probability Theory – D.A. Shabanov, MSU  
 
 
 Project "Reward for Debunking the Discovery".
------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------  
 
 My name is Nikita Umerov and On October 17 I published an article titled "On Algebraic Integral" on the Zenodo portal. Four respected professors independently verified it as a scientific discovery - I don't disclose their names for confidentiality reasons. The article became popular: on the first evening, it was downloaded 70 times and continues to get about 50 downloads per week, which is an indicator of interest for a paper in abstract algebra.
 
