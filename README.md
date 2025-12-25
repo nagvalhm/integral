@@ -34,9 +34,10 @@ I am announcing a reward of 400 Toncoin to the first person who:
 
 1)Finds a critical error in Theorem 2 (the key result of the article), OR
 2)Finds a counterexample to Theorem 2, OR
-3)Provides the identifier of an article, preprint, or monograph where this result was published earlier. I also need the source itself if it is not publicly available.
+Any earlier publication containing a result analogous to Theorem 2
+3)Provides the identifier of an earlier publication containing a result analogous to Theorem 2. I also need the source itself if it is not freely and publicly available.
 
-Considering the volatility of the cryptocurrency over the past three years, the amount is equivalent to ~400–1000 USD. The amount is modest, but it represents all my savings.
+Considering the volatility of the cryptocurrency over the past three years, the amount is equivalent to ~400–1000 USD. The amount is modest, but this is all my savings.
 
 Procedure:
 
@@ -44,7 +45,7 @@ Procedure:
 2)The email must contain a scientifically grounded refutation and a Toncoin wallet address (the address can be provided after the refutation is verified).
 3)I will try to respond to all emails within two business days, but this depends on the volume of correspondence.
 4)In case of successful verification, I will immediately transfer the tokens to the specified wallet, publish the essence of the refutation (with a link if necessary), and, at the recipient's discretion, their name.
-5)In case of a denied claim, you may file a public appeal in the comments of the YouTube video (link below).
+5)In case of a rejection, you may file a public appeal in the comments of the YouTube video (link below).
 
 If the discovery withstands this verification, it will serve as a strong indicator of its novelty and correctness. In addition to the article link, I provide a link to a YouTube video that presents the formulation of Theorem 2 and part of its proof — for those who may find the article's formulation too complex.
 
