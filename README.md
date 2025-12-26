@@ -14,7 +14,7 @@ Real Analysis – M.I. Dyachenko, MSU
 Probability Theory – D.A. Shabanov, MSU  
 
 
-Project "Trickster".
+Project "Svaðilfari".
 -----------------------------------------------------------------------------------------  
 
 My name is Nikita Umerov and On October 17 I published an article titled "On Algebraic Integral" on the Zenodo portal. Four respected professors independently verified it as a scientific discovery - I don't disclose their names for confidentiality reasons. The article became popular: on the first evening, it was downloaded 70 times and continues to get about 50 downloads per week, which is an indicator of interest for a paper in abstract algebra.
