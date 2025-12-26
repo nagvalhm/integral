@@ -70,4 +70,5 @@ Endorsements received: 2 (50% positive response rate)
 
 Upon completion of the experiment, all participants will be informed that they had been under covert observation.  
 
-In the author's opinion, this metric may reflect the level of the community's acceptance of the result and its potential demand.
+This metric may reflect the result's potential demand.  
+(In the author's opinion, this metric may reflect the level of the community's acceptance of the result and its potential demand.)
