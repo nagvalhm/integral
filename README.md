@@ -31,7 +31,7 @@ Experiment Goal: to measure the level of interest within the scientific communit
 
 Part 1: Scientific Verification — Reward for Debunking
 -----------------------------------------------------------------------------------------
-Details about Part 1 of the experiment are available here: https://nagvalhm.github.io/integral/
+Details about Part 1 of the experiment are available here: https://nagvalhm.github.io/integral/  
 and here: https://youtu.be/yu8dDCOSsI8
 
 I am announcing a reward of 400 Toncoin to the first person who:
